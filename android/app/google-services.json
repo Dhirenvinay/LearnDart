@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61208255675",
+    "project_id": "learndart01",
+    "storage_bucket": "learndart01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61208255675:android:17908d8ff90a1ffdd59d9e",
+        "android_client_info": {
+          "package_name": "com.example.uiassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61208255675-0p3bajtfkv70mo58meldpc4r2j66q9i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpcxzXaR_32xhECvJGrnPMQOs_2DC-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61208255675-0p3bajtfkv70mo58meldpc4r2j66q9i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
